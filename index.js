@@ -1,5 +1,22 @@
 const farmAnimals = 'cow horse sheep pig chicken'
 
+const [moo, hiiii, beeeh, oink, cockcock] = farmAnimals
+
+
+ 
+// const dogs = ['Great Pyrenees', 'Pug', 'Bull Mastiff']
+// const [, small, giant] = dogs
+
+
+
+
+
+
+
+
+
+
+
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 const muppet = {
